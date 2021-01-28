@@ -1,0 +1,11 @@
+<html>
+   <head>
+     <title>Spy Optic Redirect</title>
+      <meta http-equiv = "refresh" content = "0; url = https://www.instagram.com/ar/140244050879649/" />
+      <!-- <meta http-equiv = "refresh" content = "0; url =https://www.instagram.com/ar/639678206619467/" />
+      -->
+   </head>
+   <body> 
+      <p>Taking you to the Bolle Experience...</p>
+   </body>
+</html> 
